@@ -1,7 +1,7 @@
 import React from 'react';
 
-import ButtonS from '../../../../components/short_button/';
-import ButtonL from '../../../../components/long_button/';
+import ButtonS from '../../../../../components/short_button/';
+import ButtonL from '../../../../../components/long_button/';
 
 export default () => (
     <div className="num-buttons">

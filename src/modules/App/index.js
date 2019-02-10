@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-import Display from './pages/display/';
-import ActionButtons from './pages/action/';
-import NumberButtons from './pages/num/';
-import OperationButtons from './pages/operation/';
+import Display from './display/';
+import ActionButtons from './keys/action/';
+import NumberButtons from './keys/num/';
+import OperationButtons from './keys/operation/';
 
 import './style.sass';
 
